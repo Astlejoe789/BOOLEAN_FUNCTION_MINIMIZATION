@@ -35,7 +35,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-```Developed by:ASTLE JOE A S
+```
+Developed by:ASTLE JOE A S
 RegisterNumber:24004571
 module aaaa(a,b,c1,c2,c3,c4,c5,c6,c7);
 input a,b;
